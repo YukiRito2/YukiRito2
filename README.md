@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋
+Me llamo Marko 😄  
+Aquí subo los diferentes proyectos que realizo :D!
 
-<!--
-**YukiRito2/YukiRito2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Tecnologías
+- ![JavaScript](https://img.shields.io/badge/JavaScript-51.28%25-brightgreen) 
+- ![Nodejs](https://img.shields.io/badge/Nodejs-29.23%25-blue)
+- ![Python](https://img.shields.io/badge/Python-17.60%25-yellow)
+- ![HTML5](https://img.shields.io/badge/HTML5-51.28%25-orange)
+- ![CSS3](https://img.shields.io/badge/CSS3-29.23%25-lightblue)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-6.68%25-purple)
+- ![MySQL](https://img.shields.io/badge/MySQL-0.64%25-red)
+- ![Git](https://img.shields.io/badge/Git-0.57%25-gray)
+- ![GitHub](https://img.shields.io/badge/GitHub-black)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Correo
+markogamarra94@gmail.com
