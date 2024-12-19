@@ -32,4 +32,4 @@ Aquí subo los diferentes proyectos que realizo
 ## 🛠️ **Herramientas que uso**
 - **Editor de código**: Visual Studio Code
 - **Control de versiones**: Git y GitHub
-- **Otros**: Docker, Figma, Tailwind CSS, Firebase
+- **Otros**: Docker, Figma, Tailwind CSS
